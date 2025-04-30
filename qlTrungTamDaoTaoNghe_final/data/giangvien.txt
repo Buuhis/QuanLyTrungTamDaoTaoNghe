@@ -1,0 +1,3 @@
+GV01|Ngô Công Vĩ|05-04-2025|true|0333333333|ncv@gmail.com|ThuDuc|Cử Nhân|Đại Học|3
+GV02|Tô Hoàng Bửu|01-04-2025|true|0789789789|thb@gmail.com|Quan12|Thạc Sĩ||5
+GV03|Nguyễn Trường Giang|01-06-1990|true|0993939393|ntg@gmail.com|ThuDuc|Cử Nhân|Đại Học|6
